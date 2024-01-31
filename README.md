@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## Live Link:
+Visit [https://collatz-visualizer-app.vercel.app/](https://collatz-visualizer-app.vercel.app/)
+
 Collatz Visualizer App Documentation
 # Overview
 Collatz Visualizer App is a web application that visualizes the Collatz sequence for a given positive integer. It leverages modern web technologies such as React.js, Next.js 14, and Chart.js. The app allows users to interactively explore the Collatz sequence through dynamic charts.
